@@ -1,0 +1,10 @@
+github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
+github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/markcheno/go-quote v0.0.0-20220624214117-555891babbf1 h1:SfSC+2x8B71g5P8/+FVoSi/jzfS9ZaO406LlURMnRD0=
+github.com/markcheno/go-quote v0.0.0-20220624214117-555891babbf1/go.mod h1:8S5wsUbzcx2if4P7ZNTN40jtPSpy7WFggxdp8JRU554=
+github.com/markcheno/go-talib v0.0.0-20190307022042-cd53a9264d70 h1:+iG37/Aw61Oc+ZJ4DSxQF2+K0e4ZiMidI7ytWuW4/cI=
+github.com/markcheno/go-talib v0.0.0-20190307022042-cd53a9264d70/go.mod h1:xsYvOKWtDWoDV0kdN3U8tYZ4lVrhjqf64cJRzR4ScTI=
+golang.org/x/sync v0.1.0 h1:wsuoTGHzEhffawBOhz5CYhcrV4IdKZbEyZjBMuTp12o=
+golang.org/x/sync v0.1.0/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
+gopkg.in/ini.v1 v1.67.0 h1:Dgnx+6+nfE+IfzjUEISNeydPJh9AXNNsWbGP9KzCsOA=
+gopkg.in/ini.v1 v1.67.0/go.mod h1:pNLf8WUiyNEtQjuu5G5vTm06TEv9tsIgeAvK8hOrP4k=
